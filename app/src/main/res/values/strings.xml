@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TP-epsi</string>
     <string name="todo">jolie image de cuisto</string>
+    <string name="txtTitle">Rayon</string>
 </resources>
